@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SplitBill</string>
+
+    <string-array name="currencySymbols">
+        <item>INR-(₹)</item>
+        <item>USD-($)</item>
+        <item>EUR-(€)</item>
+        <item>YEN-(¥)</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="copyright">Copyright © 2019 Nishant Boro</string>
+    <string name="developer">Designed &amp; Developed By Nishant Boro</string>
+</resources>
